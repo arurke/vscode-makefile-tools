@@ -14,7 +14,7 @@
 	"makefile-tools.command.makefile.setBuildTarget.title": "生成文件: 设置要由 make 生成的目标",
 	"makefile-tools.command.makefile.setLaunchConfiguration.title": "生成文件: 设置生成启动配置",
 	"makefile-tools.command.makefile.openMakefilePathSetting.title": "生成文件: 打开生成文件路径设置",
-	"makefile-tools.command.makefile.openMakePathSetting.title": "生成文件: 打开“创建路径”设置",
+	"makefile-tools.command.makefile.openMakePathSetting.title": "生成文件: 打开创建路径设置",
 	"makefile-tools.command.makefile.openBuildLogSetting.title": "生成文件: 打开生成日志设置",
 	"makefile-tools.command.makefile.openBuildLogFile.title": "生成文件: 打开生成日志文件",
 	"makefile-tools.command.makefile.openMakefileFile.title": "生成文件: 打开生成文件",

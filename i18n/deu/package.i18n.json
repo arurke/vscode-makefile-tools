@@ -14,7 +14,7 @@
 	"makefile-tools.command.makefile.setBuildTarget.title": "Makefile: Legen Sie das Ziel fest, das von „Make“ erstellt werden soll",
 	"makefile-tools.command.makefile.setLaunchConfiguration.title": "Makefile: „Make“-Startkonfiguration festlegen",
 	"makefile-tools.command.makefile.openMakefilePathSetting.title": "Makefile: Makefile-Pfadeinstellung öffnen",
-	"makefile-tools.command.makefile.openMakePathSetting.title": "Makefile: Einstellung \"Pfad erstellen\" öffnen",
+	"makefile-tools.command.makefile.openMakePathSetting.title": "Makefile: Einstellung Pfad erstellen öffnen",
 	"makefile-tools.command.makefile.openBuildLogSetting.title": "Makefile: Buildprotokolleinstellung öffnen",
 	"makefile-tools.command.makefile.openBuildLogFile.title": "Makefile: Buildprotokolldatei öffnen",
 	"makefile-tools.command.makefile.openMakefileFile.title": "Makefile: Makefile-Datei öffnen",
